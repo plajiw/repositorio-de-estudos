@@ -1,0 +1,1 @@
+Toda aplicação web como a IVI é, por natureza, "passiva". Ela fica esperando uma requisição do usuário (uma mensagem no WhatsApp) para fazer alguma coisa. Ela não sabe como "acordar sozinha" para executar uma tarefa. O hangfire entra como um "despertador inteligente"
